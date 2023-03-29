@@ -1,4 +1,4 @@
-    getgenv().Key = Enum.KeyCode.C
+    getgenv().Key = Enum.KeyCode.Q
 getgenv().Prediction = 0.150
     getgenv().Partz = "UpperTorso" -- LowerTorso, HumanoidRootPart,Head,UpperTorso
 
